@@ -1,0 +1,35 @@
+# IDE and editor state
+.vscode/
+.idea/
+
+# Compiler and linker outputs
+build/
+compiler/
+batch_out/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+编译器设计文档.docx
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local test and profiling outputs
+ascii_cases/
+perf_cases/
+local_expected_build_perf/
+local_riscv_out_*/
+local_test_out/
+tmp/
+tmp_*/
+
+# Local scratch directories and unrelated personal material
+xw/
+presentation/
+*.pptx
+实验指导书-26-01-03/
+得分记录.txt
+计算机图形学大作业提交证明.png
